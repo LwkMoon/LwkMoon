@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=30&pause=1000&color=a371f7&center=true&vCenter=true&width=430&height=44&lines=A%20Full-Stack%20Developer;Turning%20caffeine%20into%20code" alt="Typing headlines" />
 </p>
 
-### > About Me
+### About Me
 
 High School Student | Full-Stack Web Developer  
 Frontend: React, Next.js, Tailwind CSS  
@@ -17,7 +17,7 @@ Currently building full-stack web tools &amp; exploring the system.
 
 > &nbsp;Fun fact: **I once coded a FlipFlop**
 
-### > Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -45,7 +45,7 @@ Currently building full-stack web tools &amp; exploring the system.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://lwkmoon.vercel.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
@@ -53,7 +53,7 @@ Currently building full-stack web tools &amp; exploring the system.
   <a href="mailto:moosamughal231@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 💭 Dev Quote
+### Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
