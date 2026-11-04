@@ -10,10 +10,11 @@
 
 ### About Me
 
-High School Student | Full-Stack Web Developer  
-Frontend: React, Next.js, Tailwind CSS  
-Backend: Node.js, Express, Python, SQL/NoSQL  
-Currently building full-stack web tools &amp; exploring the system.
+Independent Full-Stack Developer | Websites, Web Apps & Custom Tools <br>
+Frontend: HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS <br>
+Backend: Python, Flask, REST APIs, SQL/SQLite, Authentication & Database Design <br>
+Building practical software, from open-source tools to custom applications. <br>
+Beyond the web: Discord bots (discord.py) & Minecraft plugins (Java, Spigot/Paper).
 
 > &nbsp;Fun fact: **I once coded a FlipFlop**
 
